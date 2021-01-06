@@ -1,4 +1,5 @@
-### hey 👋 i'm alef. i'm a general tech hobbyist and like to dip my toe into all sorts of things, including programming.
+### hey 👋
+## i'm alef. i'm a general tech hobbyist and like to dip my toe into all sorts of things, including programming.
 
 - 😄 pronouns: he/him/meh
 
