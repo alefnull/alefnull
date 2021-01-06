@@ -1,10 +1,8 @@
-### Hi there 👋
+### hey 👋 i'm alef. i'm a general tech hobbyist and like to dip my toe into all sorts of things, including programming.
+
+- 😄 pronouns: he/him/meh
 
 <!--
-**alefnull/alefnull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
