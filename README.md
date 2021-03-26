@@ -1,7 +1,9 @@
 ### hey 👋
 i'm alef. i'm a general tech hobbyist and like to dip my toe into all sorts of things, including programming.
 
-- 😄 pronouns: he/him/meh
+- pronouns: he/him/meh
+- currently learning: AutoHotkey
+- currently working on: [ahk-scripts](https://github.com/alefnull/ahk-scripts)
 
 <!--
 - 🔭 I’m currently working on ...
