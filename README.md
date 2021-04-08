@@ -3,7 +3,7 @@ i'm alef. i'm a general tech hobbyist and like to dip my toe into all sorts of t
 
 - pronouns: he/him/meh
 - currently learning: AutoHotkey
-- currently working on: [ahk-scripts](https://github.com/alefnull/ahk-scripts)
+- currently working on: [null-keys](https://github.com/alefnull/null-keys)
 
 <!--
 - 🔭 I’m currently working on ...
