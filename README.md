@@ -4,8 +4,6 @@ i'm alef. i'm a general tech hobbyist and like to dip my toe into all sorts of t
 [![Twitter Follow](https://img.shields.io/twitter/follow/alefnull?color=%2300AAFF&label=%40alefnull&logo=twitter&logoColor=%2300AAFF&style=for-the-badge)](https://twitter.com/alefnull?ref_src=twsrc%5Etfw)
 
 - pronouns: he/him/meh
-- currently learning: AutoHotkey
-- currently working on: [null-keys](https://github.com/alefnull/null-keys)
 
 <!--
 - 🔭 I’m currently working on ...
