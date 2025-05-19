@@ -3,6 +3,8 @@ i'm alef. i'm a general tech hobbyist and like to dip my toe into all sorts of t
 
 - pronouns: he/him/meh
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E11F8P04)
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
